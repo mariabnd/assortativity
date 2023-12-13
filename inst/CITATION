@@ -1,0 +1,10 @@
+citHeader("Please cite")
+
+citEntry(entry = "misc",
+title = "assortativity: Assortativity indices for transmission matrices",
+author = "M. {Bekker-Nielsen Dunbar}",
+year = "2023",
+note = "R package version 1.0",
+url = "https://github.com/mariabnd/assortativity}",
+textVersion = "M. Bekker-Nielsen Dunbar (2023) 'assortativity: Assortativity indices for transmission matrices' (R package version 1.0)"
+)

@@ -1,0 +1,8 @@
+.Rhistory
+.Rapp.history
+.RData
+.RDataTmp
+.Ruserdata
+/*.tar.gz
+/*.Rcheck/
+.Renviron

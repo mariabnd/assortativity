@@ -1,0 +1,15 @@
+Package: assortativity
+Type: Package
+Version: 1.0
+Date: 2023-11-24
+Depends: R (>= 4.2.3)
+Title: Assortativity indices for transmission matrices.
+Author: Maria BEKKER-NIELSEN DUNBAR
+Maintainer: Maria BEKKER-NIELSEN DUNBAR <madun9861@oslomet.no>
+Description: Implementation of various assortativity indices.
+License: GPL (>= 3)
+Encoding: UTF-8
+URL: https://github.com/mariabnd/assortativity
+Imports: Rdpack
+RdMacros: Rdpack
+RoxygenNote: 7.2.3
