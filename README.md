@@ -4,9 +4,9 @@ A package with implementations of the summary measures related to assortativity 
 
 ## Installation
 
-Install the package using `devtools`:
+Install the package using `remotes`:
 
 ``` r
-# install.packages("devtools")
-devtools::install_github("mariabnd/assortativity")
+# install.packages("remotes")
+remotes::install_github("mariabnd/assortativity")
 ```
