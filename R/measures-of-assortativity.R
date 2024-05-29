@@ -59,7 +59,7 @@ calculate_r_stat <- function(mat){
 #' 0.08, 0.09, 0.11),
 #' ncol = 3, nrow = 3, byrow = TRUE)
 #' calculate_ev_ratio(mat)
-#' # 3.994067
+#' # 0.2503714
 #' @export
 #' @references
 #' \insertAllCited{}
@@ -68,7 +68,7 @@ calculate_ev_ratio <- function(mat){
     warning("mat may be given by counts rather than proportions")
     }
   vals <- eigen(mat, only.values = TRUE)$values
-  return(vals[1] / vals[2])
+  return(vals[2] / vals[1])
 }
 
 #' Calculate index of disassortativity

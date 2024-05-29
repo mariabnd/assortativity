@@ -21,7 +21,7 @@ mat <- matrix(data = c(0.25, 0.1, 0.15,
 0.08, 0.09, 0.11),
 ncol = 3, nrow = 3, byrow = TRUE)
 calculate_ev_ratio(mat)
-# 3.994067
+# 0.2503714
 }
 \references{
 \insertAllCited{}
